@@ -1,0 +1,24 @@
+header {
+    background-color: maroon;
+    color: lightblue;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+
+main {
+    background-color: azure;
+    width: 600px;
+    padding: 50px;
+    border: 5px solid red;
+}
+
+footer {
+    background-color: darkblue;
+    color: bisque;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 25px;
+}
