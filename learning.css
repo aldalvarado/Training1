@@ -1,0 +1,38 @@
+header {
+    background-color: #588C94;
+    text-align: center;
+    color: white;
+    padding: 60px;
+}
+
+main {
+    text-align: center;
+    color: gray;
+    border: palevioletred solid 5px;
+    width: 720px;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #1D3C41;
+    color: white;
+    padding: 60px;
+    border: orange solid 5px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 21px;
+}
